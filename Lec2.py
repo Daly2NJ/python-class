@@ -12,11 +12,12 @@
 #rint(1*2)
 #rint(1-2)
 #rint(1/2)
+'''
 my_num = 123
 print(my_num)
 my_num = 234
 print(my_num)
-
+'''
 '''
 Lecture 2 of IA241
 Numbers, Strings, and Variables

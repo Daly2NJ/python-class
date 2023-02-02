@@ -17,10 +17,10 @@ print(str_list[2])
 #3.5
 my_list = ['a',' 123', 123, 'b', 'B', 'False', False, 123, None, 
 'None']
-print(len(my_list))
+print(len(set(my_list)))
 
 #3.6
-message = "This is my third python lab." 
+message = "This is my third python lab."
 print(len(message.split()))
 
 #3.7
@@ -32,5 +32,5 @@ print(num_list[-1])
 #3.8
 game_board =  [ [0,0,0], [0,0,0], [0,0,0]]
 print(game_board)
-game_board[1] = [0,1,0]
+game_board[1][1] = 1
 print(game_board)

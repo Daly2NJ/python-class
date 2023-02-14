@@ -1,5 +1,5 @@
 '''
-Chapter 8 of Think Python
+Chapter 10 of Think Python
 Lists
 2/9/2023
 '''

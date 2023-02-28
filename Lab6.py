@@ -3,7 +3,6 @@ lab6
 for loop, range function
 '''
 
-
 #3.1
 for i in range(0,6):
     if i != 3:
